@@ -1,0 +1,9 @@
+EST API -JSON 
+GET/userHTML document render
+GET/api/users-List all users-Done
+GET /api/users/1-get user id 1
+GET/api/users/2-get user id 2
+
+POST/api/user-create users
+PATCH /users/1  Edit the user with id 1
+DELETE /users/1 - Delete the user with id 1
